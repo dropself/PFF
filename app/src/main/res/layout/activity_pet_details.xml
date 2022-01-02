@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PetDetailsActivity"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/petImageDetail"
+                android:layout_width="250dp"
+                android:layout_height="250dp"
+                android:layout_gravity="center"
+                android:layout_weight="40"
+                android:paddingTop="10dp"
+                app:srcCompat="@drawable/image_icon"
+                tools:layout_editor_absoluteX="18dp"
+                tools:layout_editor_absoluteY="16dp" />
+
+            <TextView
+                android:id="@+id/petNameDetails"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingTop="20dp"
+                android:text="Name: "
+                android:textSize="28sp"
+                tools:layout_editor_absoluteX="147dp"
+                tools:layout_editor_absoluteY="356dp" />
+
+            <TextView
+                android:id="@+id/petCategoryDetails"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingTop="20dp"
+                android:text="Category:"
+                android:textSize="24sp"
+                tools:layout_editor_absoluteX="147dp"
+                tools:layout_editor_absoluteY="356dp" />
+
+
+            <TextView
+                android:id="@+id/petColorDetails"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingTop="20dp"
+                android:text="Color:"
+                android:textSize="24sp"
+                tools:layout_editor_absoluteX="147dp"
+                tools:layout_editor_absoluteY="356dp" />
+
+            <TextView
+                android:id="@+id/petAgeDetails"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingTop="20dp"
+                android:text="Age:"
+                android:textSize="24sp"
+                tools:layout_editor_absoluteX="147dp"
+                tools:layout_editor_absoluteY="356dp" />
+
+            <TextView
+                android:id="@+id/petSexDetails"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingTop="20dp"
+                android:text="Sex:"
+                android:textSize="24sp"
+                tools:layout_editor_absoluteX="147dp"
+                tools:layout_editor_absoluteY="356dp" />
+
+            <TextView
+                android:id="@+id/petTypeDetails"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingTop="20dp"
+                android:paddingBottom="50dp"
+                android:text="Type:"
+                android:textSize="24sp"
+                tools:layout_editor_absoluteX="147dp"
+                tools:layout_editor_absoluteY="356dp" />
+
+            <Button
+                android:id="@+id/btnContactOwner"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Contact With Pet Owner" />
+        </LinearLayout>
+
+    </ScrollView>
+
+
+</LinearLayout>

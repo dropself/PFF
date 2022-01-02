@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/AhmetM/AndroidStudioProjects/PFF/app/src/main/res/layout/activity_edit.xml" value="0.25" />
+        <entry key="..\:/Users/AhmetM/AndroidStudioProjects/PFF/app/src/main/res/layout/activity_filter.xml" value="0.2916666666666667" />
+        <entry key="..\:/Users/AhmetM/AndroidStudioProjects/PFF/app/src/main/res/layout/activity_login_sign_up.xml" value="0.33" />
+        <entry key="..\:/Users/AhmetM/AndroidStudioProjects/PFF/app/src/main/res/layout/activity_main.xml" value="0.33559782608695654" />
+        <entry key="..\:/Users/AhmetM/AndroidStudioProjects/PFF/app/src/main/res/layout/activity_pet_details.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/AhmetM/AndroidStudioProjects/PFF/app/src/main/res/layout/activity_user_profile.xml" value="0.33" />
+        <entry key="..\:/Users/AhmetM/AndroidStudioProjects/PFF/app/src/main/res/layout/fragment_add_new_animal.xml" value="0.33559782608695654" />
+        <entry key="..\:/Users/AhmetM/AndroidStudioProjects/PFF/app/src/main/res/layout/fragment_home_page.xml" value="0.33" />
+        <entry key="..\:/Users/AhmetM/AndroidStudioProjects/PFF/app/src/main/res/layout/fragment_messages.xml" value="0.33559782608695654" />
+        <entry key="..\:/Users/AhmetM/AndroidStudioProjects/PFF/app/src/main/res/layout/fragment_my_advertisements.xml" value="0.3964102564102564" />
+        <entry key="..\:/Users/AhmetM/AndroidStudioProjects/PFF/app/src/main/res/layout/messages_row_layout.xml" value="0.25" />
+        <entry key="..\:/Users/AhmetM/AndroidStudioProjects/PFF/app/src/main/res/layout/published_advertisement_row_layout.xml" value="0.40260416666666665" />
+        <entry key="..\:/Users/AhmetM/AndroidStudioProjects/PFF/app/src/main/res/layout/row_layout.xml" value="0.33" />
+        <entry key="..\:/Users/AhmetM/AndroidStudioProjects/PFF/app/src/main/res/menu/bottom_menu.xml" value="0.3625" />
+        <entry key="..\:/Users/AhmetM/AndroidStudioProjects/PFF/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.21875" />
+        <entry key="..\:/Users/AhmetM/AndroidStudioProjects/PFF/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.21875" />
+        <entry key="..\:/Users/DropSelf/AndroidStudioProjects/PFF/app/src/main/res/drawable/image_icon.xml" value="0.3828125" />
+        <entry key="..\:/Users/DropSelf/AndroidStudioProjects/PFF/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/DropSelf/AndroidStudioProjects/PFF/app/src/main/res/layout/fragment_add_new_animal.xml" value="0.25" />
+        <entry key="..\:/Users/DropSelf/AndroidStudioProjects/PFF/app/src/main/res/layout/fragment_home_page.xml" value="0.25" />
+        <entry key="..\:/Users/DropSelf/AndroidStudioProjects/PFF/app/src/main/res/layout/fragment_messages.xml" value="0.25" />
+        <entry key="..\:/Users/DropSelf/AndroidStudioProjects/PFF/app/src/main/res/layout/fragment_my_advertisements.xml" value="0.25" />
+        <entry key="..\:/Users/DropSelf/AndroidStudioProjects/PFF/app/src/main/res/menu/bottom_menu.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

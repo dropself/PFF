@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/homePage">
+
+    <fragment
+        android:id="@+id/homePage"
+        android:name="com.example.pff.homePage"
+        android:label="fragment_home_page"
+        tools:layout="@layout/fragment_home_page" />
+    <fragment
+        android:id="@+id/addNewAnimal"
+        android:name="com.example.pff.addNewAnimal"
+        android:label="fragment_add_new_animal"
+        tools:layout="@layout/fragment_add_new_animal" />
+    <fragment
+        android:id="@+id/messages"
+        android:name="com.example.pff.messages"
+        android:label="fragment_messages"
+        tools:layout="@layout/fragment_messages" />
+    <fragment
+        android:id="@+id/myAdvertisements"
+        android:name="com.example.pff.myAdvertisements"
+        android:label="fragment_my_advertisements"
+        tools:layout="@layout/fragment_my_advertisements" />
+</navigation>

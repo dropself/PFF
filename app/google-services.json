@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1087318543828",
+    "project_id": "petsfriendsforever-c6201",
+    "storage_bucket": "petsfriendsforever-c6201.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087318543828:android:481c56caf5979b3ff4da41",
+        "android_client_info": {
+          "package_name": "com.example.pff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087318543828-tkdgo4a49m3u22hiv93j9h0smbqos3pq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyuKsNSepwY01mTuwjFRijyWik-H8UxbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087318543828-tkdgo4a49m3u22hiv93j9h0smbqos3pq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
